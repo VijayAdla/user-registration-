@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./adminedit.js"></script>
+    <script src="./displayscript.js"></script>
+</head>
+<body>
+    <div class="container">
+        <p class="p">Edit User Details</p><br>
+        <label class="name">Name</label>
+        <input class="name-input" id="userName" type="text"><br>
+        <label class="name">Email</label>
+        <input class="email-input" id="Email" type="text" required placeholder="example@123"><br>
+        <label class="password">password</label>
+        <input class="password-input" id="password" type="password"><br>
+        <label class="role">Role</label>
+        <select id="Role">
+            <option>Admin </option>
+            <option>User</option>
+        </select>
+        <button onclick="saveChanges()" class="but" style="font-weight:600;font-family: 'Times New Roman', Times, serif;font-size:20px">Save Changes</button>
+    </div>
+</body>
+</html>

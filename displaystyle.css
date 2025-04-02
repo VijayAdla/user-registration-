@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(to left,rgb(205, 189, 111),rgb(222, 221, 221));
+}
+.filter{
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+
+.delete{
+    color: red;
+    cursor: pointer;
+}
+
+#notFound{
+    margin-left: 45%;
+    color: red;
+    font-size: 20px;
+}
+
+.search{
+    font-weight: 600;
+    background-color: rgb(227, 227, 107);
+    cursor: pointer;
+}
+.input{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+table{
+    font-size: 30px;
+    margin-top:6% ;
+    margin-left:13%;
+    font-family: 'Times New Roman', Times, serif;
+    /* border: none; */
+    border: 2px solid black;
+}
+
+th{
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+tr{
+    text-align: center;
+}
+
+td{
+    background-color: rgb(255, 255, 255);
+    /* border: none; */
+    /* border-bottom: 2px solid black; */
+    border-right: 2px solid black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
