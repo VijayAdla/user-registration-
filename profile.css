@@ -1,5 +1,9 @@
+body{
+    background-color: rgb(240, 255, 248);
+}
 .container{
-    border:2px solid black;
+    border:5px solid black;
+    border-radius:10px;
     height: 620px;
     width: 500px;
     display:block;
@@ -7,7 +11,8 @@
     margin-top: 4%;
     font-size: 25px;
     font-weight: 600;
-    background-color: rgb(192, 230, 237);
+    background-color: rgb(237, 212, 192);
+    box-shadow: 10px 10px 10px;
 }
 
 h3{
@@ -33,7 +38,7 @@ input{
     padding-right: 20px;
     font-size: 20px;
     border:none;
-    background-color: rgb(192, 230, 237);
+    background-color:rgb(237, 212, 192);
 }
 
 #profile-email{
@@ -41,7 +46,7 @@ input{
     padding-right: 20px;
     font-size: 20px;
     border:none;
-    background-color: rgb(192, 230, 237);
+    background-color:rgb(237, 212, 192);
 }
 
 #profile-password{
@@ -49,7 +54,7 @@ input{
     padding-right: 20px;
     font-size: 20px;
     border:none;
-    background-color: rgb(192, 230, 237);
+    background-color:rgb(237, 212, 192);
 }
 
 #profile-role{
@@ -57,7 +62,7 @@ input{
     padding-right: 20px;
     font-size: 20px;
     border:none;
-    background-color: rgb(192, 230, 237);
+    background-color:rgb(237, 212, 192);
     color: rgb(4, 108, 74);
 }
 
@@ -66,5 +71,5 @@ input{
     padding-right: 20px;
     font-size: 20px;
     border:none;
-    background-color: rgb(192, 230, 237);
+    background-color:rgb(237, 212, 192);
 }
