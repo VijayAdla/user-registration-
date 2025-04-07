@@ -15,6 +15,11 @@ div{
     font-size: 35px;
 }
 
+i{
+    margin-right: 30px;
+    font-size: 50px;
+}
+
 .user-input{
     margin-top: 10px;
     margin-bottom: 30px;

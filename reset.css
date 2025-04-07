@@ -8,7 +8,9 @@ body{
     background-color: transparent;
 }
 
-
+i{
+    margin-right: 20px;
+}
 
 div{
     border: 2px solid black;
