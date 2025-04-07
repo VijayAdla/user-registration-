@@ -1,0 +1,1687 @@
+{
+  "user": [
+    {
+      "id": "b275",
+      "username": "reddy",
+      "email": "reddy123@gmail.com",
+      "password": "Reddy@123",
+      "role": "User"
+    },
+    {
+      "id": "e290",
+      "username": "rakesh",
+      "email": "rakesh143@gmail.com",
+      "password": "Rakesh@123",
+      "role": "User"
+    },
+    {
+      "id": "12b1",
+      "username": "vamshi",
+      "email": "vamshi123@gmail.com",
+      "password": "Vamshi@123",
+      "role": "Admin"
+    },
+    {
+      "id": "c079",
+      "username": "Adla vijay",
+      "email": "vijayadla7071@gmail.com",
+      "password": "Viji@118",
+      "role": "Admin"
+    },
+    {
+      "id": "5d31",
+      "username": "john doe",
+      "email": "johndoe@gmail.com",
+      "password": "John@123",
+      "role": "Admin"
+    },
+    {
+      "id": "4f59",
+      "username": "sarah smith",
+      "email": "sarahsmith123@gmail.com",
+      "password": "Sarah@123",
+      "role": "User"
+    },
+    {
+      "id": "c0da",
+      "username": "michael lee",
+      "email": "michaellee123@gmail.com",
+      "password": "Michael@789",
+      "role": "User"
+    },
+    {
+      "id": "9845",
+      "username": "emma watson",
+      "email": "emmawatson@gmail.com",
+      "password": "Emma@123",
+      "role": "Admin"
+    },
+    {
+      "id": "1770",
+      "username": "raju",
+      "email": "raju143@gmail.com",
+      "password": "Raju@123",
+      "role": "Admin"
+    },
+    {
+      "id": "ca91",
+      "username": "ramu",
+      "email": "ramuvasu@gmail.com",
+      "password": "Ramu@123",
+      "role": "Admin"
+    },
+    {
+      "id": "09b8",
+      "username": "rahul",
+      "email": "rahuldravid@gmail.com",
+      "password": "Rahul@#123",
+      "role": "Admin"
+    }
+  ],
+  "Ajio": [
+    {
+      "id": "101",
+      "name": "Solid Regular Fit Shirt",
+      "brand": "IKON FASHION",
+      "price": 2499,
+      "rating": 4,
+      "people": "1k",
+      "originalPrice": "1,749"
+    },
+    {
+      "id": "102",
+      "name": "Checked Sli, Fit Shirt with Patch",
+      "brand": "THE BEAR HOUSE",
+      "price": 873,
+      "rating": 4.5,
+      "people": "1.5k",
+      "originalPrice": "1,299"
+    },
+    {
+      "id": "103",
+      "name": "Checks Spread-Collar Shirt",
+      "brand": "THE BEAR HOUSE",
+      "price": 499,
+      "rating": 3.5,
+      "people": "2.1k",
+      "originalPrice": "2,999"
+    },
+    {
+      "id": "104",
+      "name": "Men Striped Slim Fit Shirt with Patch Pocket",
+      "brand": "The Indian Garage Co",
+      "price": 490,
+      "rating": 4.5,
+      "people": "1.7k",
+      "originalPrice": "2,149"
+    },
+    {
+      "id": "105",
+      "name": "Men Shirt with Spread Collar",
+      "brand": "EYEBOGLER",
+      "price": 2499,
+      "rating": 3,
+      "people": "5.1k",
+      "originalPrice": "1,749"
+    },
+    {
+      "id": "101",
+      "name": "Solid Regular Fit Shirt",
+      "brand": "IKON FASHION",
+      "price": 2499,
+      "rating": 4,
+      "people": "1k",
+      "originalPrice": "1,749"
+    },
+    {
+      "id": "102",
+      "name": "Casual Cotton Shirt",
+      "brand": "URBAN STYLE",
+      "price": 1899,
+      "rating": 4.2,
+      "people": "2.3k",
+      "originalPrice": "2,299"
+    },
+    {
+      "id": "103",
+      "name": "Slim Fit Denim Shirt",
+      "brand": "DENIM HUB",
+      "price": 2199,
+      "rating": 4.5,
+      "people": "3.1k",
+      "originalPrice": "2,599"
+    },
+    {
+      "id": "104",
+      "name": "Checked Casual Shirt",
+      "brand": "FASHION SQUARE",
+      "price": 1599,
+      "rating": 4.1,
+      "people": "900",
+      "originalPrice": "1,999"
+    },
+    {
+      "id": "105",
+      "name": "Linen Blend Shirt",
+      "brand": "CLASSY WEAR",
+      "price": 2799,
+      "rating": 4.3,
+      "people": "1.5k",
+      "originalPrice": "3,299"
+    },
+    {
+      "id": "106",
+      "name": "Formal White Shirt",
+      "brand": "EXECUTIVE LOOK",
+      "price": 1999,
+      "rating": 4,
+      "people": "1.8k",
+      "originalPrice": "2,199"
+    },
+    {
+      "id": "107",
+      "name": "Striped Cotton Shirt",
+      "brand": "TRENDY THREADS",
+      "price": 1699,
+      "rating": 4.2,
+      "people": "2.2k",
+      "originalPrice": "2,099"
+    },
+    {
+      "id": "108",
+      "name": "Printed Summer Shirt",
+      "brand": "SUNSHINE APPAREL",
+      "price": 1399,
+      "rating": 3.9,
+      "people": "750",
+      "originalPrice": "1,899"
+    },
+    {
+      "id": "109",
+      "name": "Oxford Button-Down Shirt",
+      "brand": "PREMIUM WEAVE",
+      "price": 2499,
+      "rating": 4.6,
+      "people": "3.8k",
+      "originalPrice": "2,899"
+    },
+    {
+      "id": "110",
+      "name": "Chambray Casual Shirt",
+      "brand": "MODERN VOGUE",
+      "price": 2099,
+      "rating": 4.4,
+      "people": "2.9k",
+      "originalPrice": "2,499"
+    },
+    {
+      "id": "111",
+      "name": "Classic Flannel Shirt",
+      "brand": "WINTER MODE",
+      "price": 2299,
+      "rating": 4.3,
+      "people": "1.2k",
+      "originalPrice": "2,599"
+    },
+    {
+      "id": "112",
+      "name": "Slim Fit Office Shirt",
+      "brand": "BUSINESS CLASS",
+      "price": 2599,
+      "rating": 4.5,
+      "people": "2.5k",
+      "originalPrice": "3,099"
+    },
+    {
+      "id": "113",
+      "name": "Casual Floral Shirt",
+      "brand": "SUMMER BREEZE",
+      "price": 1899,
+      "rating": 4.1,
+      "people": "1.9k",
+      "originalPrice": "2,199"
+    },
+    {
+      "id": "114",
+      "name": "Mandarin Collar Shirt",
+      "brand": "ELEGANT EDGE",
+      "price": 1999,
+      "rating": 4.2,
+      "people": "2.3k",
+      "originalPrice": "2,499"
+    },
+    {
+      "id": "115",
+      "name": "Oversized Cotton Shirt",
+      "brand": "STREET WEAR",
+      "price": 1799,
+      "rating": 4,
+      "people": "950",
+      "originalPrice": "2,099"
+    },
+    {
+      "id": "116",
+      "name": "Retro Striped Shirt",
+      "brand": "VINTAGE VIBES",
+      "price": 1699,
+      "rating": 3.9,
+      "people": "1.1k",
+      "originalPrice": "1,999"
+    },
+    {
+      "id": "117",
+      "name": "Plaid Pattern Shirt",
+      "brand": "URBAN CHIC",
+      "price": 2399,
+      "rating": 4.3,
+      "people": "1.6k",
+      "originalPrice": "2,799"
+    },
+    {
+      "id": "118",
+      "name": "Heavyweight Denim Shirt",
+      "brand": "TOUGH THREADS",
+      "price": 2899,
+      "rating": 4.6,
+      "people": "3.2k",
+      "originalPrice": "3,299"
+    },
+    {
+      "id": "119",
+      "name": "Half Sleeve Linen Shirt",
+      "brand": "COOL COMFORT",
+      "price": 1499,
+      "rating": 4,
+      "people": "890",
+      "originalPrice": "1,799"
+    },
+    {
+      "id": "120",
+      "name": "Cotton Polo Shirt",
+      "brand": "EVERYDAY FIT",
+      "price": 1599,
+      "rating": 4.1,
+      "people": "1.5k",
+      "originalPrice": "1,999"
+    },
+    {
+      "id": "121",
+      "name": "Hawaiian Beach Shirt",
+      "brand": "TROPICAL STYLE",
+      "price": 1899,
+      "rating": 4.2,
+      "people": "1.3k",
+      "originalPrice": "2,299"
+    },
+    {
+      "id": "122",
+      "name": "Oxford Formal Shirt",
+      "brand": "EXECUTIVE LOOK",
+      "price": 2199,
+      "rating": 4.4,
+      "people": "2.7k",
+      "originalPrice": "2,599"
+    }
+  ],
+  "users": [
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "username": "emilyd",
+      "email": "emilyd@example.com",
+      "mobile": "6543210987",
+      "address": "321 Maple St, San Francisco, CA",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2024-03-13T13:45:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Michael Brown",
+      "username": "michaelb",
+      "email": "michaelb@example.com",
+      "mobile": "5432109876",
+      "address": "951 Oak St, Houston, TX",
+      "role": "user",
+      "status": "inactive",
+      "createdAt": "2024-03-14T14:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Wilson",
+      "username": "sarahw",
+      "email": "sarahw@example.com",
+      "mobile": "4321098765",
+      "address": "852 Pine St, Phoenix, AZ",
+      "role": "moderator",
+      "status": "active",
+      "createdAt": "2024-03-15T15:15:00Z"
+    },
+    {
+      "id": "7",
+      "name": "David Martinez",
+      "username": "davidm",
+      "email": "davidm@example.com",
+      "mobile": "3210987654",
+      "address": "753 Cedar St, Seattle, WA",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2024-03-16T16:30:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Laura Anderson",
+      "username": "lauraa",
+      "email": "lauraa@example.com",
+      "mobile": "2109876543",
+      "address": "654 Birch St, Miami, FL",
+      "role": "admin",
+      "status": "inactive",
+      "createdAt": "2024-03-17T17:45:00Z"
+    },
+    {
+      "id": "9",
+      "name": "James Thomas",
+      "username": "jamest",
+      "email": "jamest@example.com",
+      "mobile": "1098765432",
+      "address": "357 Spruce St, Boston, MA",
+      "role": "moderator",
+      "status": "active",
+      "createdAt": "2024-03-18T18:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 101,
+      "customerName": "Digital Lync",
+      "deliveryAddress": "123 Main St, Cityville",
+      "items": [
+        {
+          "itemName": "Burger",
+          "quantity": 2,
+          "price": 5.99
+        },
+        {
+          "itemName": "Fries",
+          "quantity": 1,
+          "price": 2.99
+        },
+        {
+          "itemName": "Coke",
+          "quantity": 1,
+          "price": 1.99
+        }
+      ],
+      "totalAmount": 16.96,
+      "orderStatus": "Delivered",
+      "deliveryTime": "2024-10-04T12:30:00Z",
+      "paymentMethod": "Credit Card",
+      "id": "8c08"
+    },
+    {
+      "orderId": 102,
+      "customerName": "Jane Smith",
+      "deliveryAddress": "456 Oak St, Townsville",
+      "items": [
+        {
+          "itemName": "Pizza",
+          "quantity": 1,
+          "price": 12.99
+        },
+        {
+          "itemName": "Garlic Bread",
+          "quantity": 1,
+          "price": 3.99
+        }
+      ],
+      "totalAmount": 16.98,
+      "orderStatus": "On the way",
+      "deliveryTime": "2024-10-03T13:00:00Z",
+      "paymentMethod": "Cash",
+      "id": "f91f"
+    },
+    {
+      "orderId": 103,
+      "customerName": "Tom Johnson",
+      "deliveryAddress": "789 Pine St, Villagetown",
+      "items": [
+        {
+          "itemName": "Sushi Roll",
+          "quantity": 3,
+          "price": 8.99
+        },
+        {
+          "itemName": "Miso Soup",
+          "quantity": 2,
+          "price": 2.99
+        }
+      ],
+      "totalAmount": 32.94,
+      "orderStatus": "Preparing",
+      "deliveryTime": "2024-10-02T13:30:00Z",
+      "paymentMethod": "PayPal",
+      "id": "f88a"
+    },
+    {
+      "orderId": 104,
+      "customerName": "Alice Brown",
+      "deliveryAddress": "321 Elm St, Cityville",
+      "items": [
+        {
+          "itemName": "Chicken Wings",
+          "quantity": 2,
+          "price": 6.99
+        },
+        {
+          "itemName": "Salad",
+          "quantity": 1,
+          "price": 3.99
+        }
+      ],
+      "totalAmount": 17.97,
+      "orderStatus": "Delivered",
+      "deliveryTime": "2024-10-01T14:00:00Z",
+      "paymentMethod": "Credit Card",
+      "id": "2749"
+    },
+    {
+      "orderId": 105,
+      "customerName": "Bob Martin",
+      "deliveryAddress": "654 Willow St, Townsville",
+      "items": [
+        {
+          "itemName": "Tacos",
+          "quantity": 3,
+          "price": 4.99
+        },
+        {
+          "itemName": "Churros",
+          "quantity": 1,
+          "price": 2.99
+        }
+      ],
+      "totalAmount": 17.96,
+      "orderStatus": "On the way",
+      "deliveryTime": "2024-10-04T14:30:00Z",
+      "paymentMethod": "Cash",
+      "id": "c4f1"
+    },
+    {
+      "orderId": 106,
+      "customerName": "Sara White",
+      "deliveryAddress": "789 Birch St, Villagetown",
+      "items": [
+        {
+          "itemName": "Spaghetti",
+          "quantity": 1,
+          "price": 9.99
+        },
+        {
+          "itemName": "Garlic Bread",
+          "quantity": 1,
+          "price": 2.99
+        }
+      ],
+      "totalAmount": 12.98,
+      "orderStatus": "Preparing",
+      "deliveryTime": "2024-10-04T15:00:00Z",
+      "paymentMethod": "PayPal",
+      "id": "38b4"
+    },
+    {
+      "orderId": 107,
+      "customerName": "Tommy Lee",
+      "deliveryAddress": "111 Maple St, Cityville",
+      "items": [
+        {
+          "itemName": "Ramen",
+          "quantity": 2,
+          "price": 8.99
+        },
+        {
+          "itemName": "Tempura",
+          "quantity": 1,
+          "price": 4.99
+        }
+      ],
+      "totalAmount": 22.97,
+      "orderStatus": "Delivered",
+      "deliveryTime": "2024-10-04T15:30:00Z",
+      "paymentMethod": "Credit Card",
+      "id": "6821"
+    },
+    {
+      "orderId": 108,
+      "customerName": "Emma Green",
+      "deliveryAddress": "222 Cedar St, Townsville",
+      "items": [
+        {
+          "itemName": "Burrito",
+          "quantity": 1,
+          "price": 7.99
+        },
+        {
+          "itemName": "Nachos",
+          "quantity": 1,
+          "price": 5.99
+        }
+      ],
+      "totalAmount": 13.98,
+      "orderStatus": "On the way",
+      "deliveryTime": "2024-10-04T16:00:00Z",
+      "paymentMethod": "Cash",
+      "id": "1e98"
+    },
+    {
+      "orderId": 109,
+      "customerName": "Jack Brown",
+      "deliveryAddress": "333 Spruce St, Villagetown",
+      "items": [
+        {
+          "itemName": "Pho",
+          "quantity": 1,
+          "price": 10.99
+        },
+        {
+          "itemName": "Spring Rolls",
+          "quantity": 1,
+          "price": 4.99
+        }
+      ],
+      "totalAmount": 15.98,
+      "orderStatus": "Preparing",
+      "deliveryTime": "2024-10-04T16:30:00Z",
+      "paymentMethod": "PayPal",
+      "id": "d5fc"
+    },
+    {
+      "orderId": 110,
+      "customerName": "Olivia Johnson",
+      "deliveryAddress": "444 Oak St, Cityville",
+      "items": [
+        {
+          "itemName": "Salmon Sushi",
+          "quantity": 3,
+          "price": 12.99
+        },
+        {
+          "itemName": "Green Tea",
+          "quantity": 1,
+          "price": 2.99
+        }
+      ],
+      "totalAmount": 41.96,
+      "orderStatus": "Delivered",
+      "deliveryTime": "2024-10-04T17:00:00Z",
+      "paymentMethod": "Credit Card",
+      "id": "8f97"
+    }
+  ],
+  "voters": [
+    {
+      "id": "voter_001",
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "location": {
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "USA"
+      },
+      "hasVoted": true
+    },
+    {
+      "id": "voter_002",
+      "name": "Jane Smith",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "New York",
+        "state": "New York",
+        "country": "USA"
+      },
+      "hasVoted": false
+    },
+    {
+      "id": "voter_003",
+      "name": "Michael Johnson",
+      "age": 45,
+      "gender": "Male",
+      "location": {
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "USA"
+      },
+      "hasVoted": true
+    },
+    {
+      "id": "voter_004",
+      "name": "Emily Davis",
+      "age": 32,
+      "gender": "Female",
+      "location": {
+        "city": "Houston",
+        "state": "Texas",
+        "country": "USA"
+      },
+      "hasVoted": false
+    },
+    {
+      "id": "voter_005",
+      "name": "Daniel Wilson",
+      "age": 22,
+      "gender": "Male",
+      "location": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "USA"
+      },
+      "hasVoted": false
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust_002",
+      "name": "Bob Smith HJK",
+      "email": "bob.smith@example.com",
+      "age": 42,
+      "location": {
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "USA"
+      },
+      "isPremiumMember": false
+    },
+    {
+      "id": "cust_005",
+      "name": "Ella San Francisco",
+      "email": "ella.white@example.com",
+      "age": 29,
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "country": "USA"
+      },
+      "isPremiumMember": true
+    },
+    {
+      "id": "668e",
+      "name": "Arun J",
+      "email": "arun@gmail.com",
+      "age": "25",
+      "isPremiumMember": true,
+      "location": {
+        "city": "",
+        "state": "",
+        "country": ""
+      }
+    },
+    {
+      "id": "471c",
+      "name": "",
+      "email": "arun@gmail.com",
+      "age": "26",
+      "isPremiumMember": true,
+      "location": {
+        "city": "Hyderabad",
+        "state": "",
+        "country": ""
+      }
+    },
+    {
+      "id": "1857",
+      "name": "",
+      "email": "",
+      "age": "",
+      "isPremiumMember": false,
+      "location": {
+        "city": "",
+        "state": "",
+        "country": ""
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Amit Sharma",
+      "phone": "9876543210",
+      "email": "amit.sharma@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Priya Gupta",
+      "phone": "9123456789",
+      "email": "priya.gupta@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Rohan Mehta",
+      "phone": "9001234567",
+      "email": "rohan.mehta@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Neha Singh",
+      "phone": "9812345678",
+      "email": "neha.singh@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Vikram Rao",
+      "phone": "9911223344",
+      "email": "vikram.rao@example.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)  (16 GB RAM)",
+      "price": 9999,
+      "discount": 35,
+      "imgSrc": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/r/f/-original-imah56hkgehywn5b.jpeg?q=70",
+      "specifications": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio G85 Processor",
+        "1 Year Manufacturer Warranty for Device and 6 Months for"
+      ],
+      "category": "mobile",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "ASUS TUF Gaming F15 (15.6 inch, Black)",
+      "price": 59990,
+      "discount": 15,
+      "imgSrc": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM, 512GB SSD",
+        "15.6\" FHD Display, 144Hz Refresh Rate",
+        "NVIDIA GTX 1650 Graphics",
+        "1 Year Warranty"
+      ],
+      "category": "laptop",
+      "inStock": false
+    },
+    {
+      "id": "4",
+      "name": "Nike Revolution 6 Running Shoes For Men (Black)",
+      "price": 4299,
+      "discount": 25,
+      "imgSrc": "https://m.media-amazon.com/images/I/71mY7w6giKL._AC_UL480_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Lightweight Mesh Upper",
+        "Soft Foam Midsole",
+        "Durable Rubber Outsole",
+        "Breathable Comfort"
+      ],
+      "category": "footwear",
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "name": "Redmi Note 13 Pro (Moonlight Silver, 128 GB) (6 GB RAM)",
+      "price": 15999,
+      "discount": 20,
+      "imgSrc": "https://m.media-amazon.com/images/I/71MGSe0lcML._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+        "17.09 cm (6.73 inch) Full HD+ AMOLED Display",
+        "108MP + 8MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 695 Processor",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "mobile",
+      "inStock": false
+    },
+    {
+      "id": "6",
+      "name": "Realme Narzo 60x (Nebula Purple, 128 GB) (8 GB RAM)",
+      "price": 14999,
+      "discount": 18,
+      "imgSrc": "https://m.media-amazon.com/images/I/71w-mmKgIfL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "16.5 cm (6.5 inch) FHD+ AMOLED Display",
+        "64MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 6100+ Processor",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "mobile",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "iPhone 15 Pro (Titanium Gray, 256 GB)",
+      "price": 134999,
+      "discount": 5,
+      "imgSrc": "https://m.media-amazon.com/images/I/61Ony8rgwEL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "256 GB ROM",
+        "15.54 cm (6.1 inch) Super Retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "A17 Pro Chip",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "mobile",
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "OnePlus Nord CE 3 Lite (Pastel Lime, 128 GB) (8 GB RAM)",
+      "price": 19999,
+      "discount": 10,
+      "imgSrc": "https://m.media-amazon.com/images/I/61QRgOgBx0L._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.07 cm (6.72 inch) Full HD+ AMOLED Display",
+        "108MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 695 Processor",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "mobile",
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "POCO X5 Pro (Horizon Blue, 128 GB) (6 GB RAM)",
+      "price": 18999,
+      "discount": 22,
+      "imgSrc": "https://m.media-amazon.com/images/I/51dGqSFNrDL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "16.94 cm (6.67 inch) Full HD+ AMOLED Display",
+        "64MP + 8MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 778G Processor",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "mobile",
+      "inStock": false
+    },
+    {
+      "id": "10",
+      "name": "Dell Inspiron 15 (Ryzen 5 Hexa Core, 16GB, 512GB SSD, Windows 11)",
+      "price": 52999,
+      "discount": 18,
+      "imgSrc": "https://m.media-amazon.com/images/I/71mFAMHkWyL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "AMD Ryzen 5 Hexa Core Processor",
+        "16GB DDR4 RAM | 512GB SSD",
+        "15.6\" Full HD Anti-glare Display",
+        "Integrated AMD Radeon Graphics",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "laptop",
+      "inStock": true
+    },
+    {
+      "id": "11",
+      "name": "HP Pavilion x360 (Core i5 12th Gen, 8GB, 512GB SSD, Windows 11)",
+      "price": 74999,
+      "discount": 12,
+      "imgSrc": "https://m.media-amazon.com/images/I/71RUyskVR+L._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Intel Core i5 12th Gen Processor",
+        "8GB DDR4 RAM | 512GB SSD",
+        "14\" Full HD Touchscreen Display",
+        "Intel Iris Xe Graphics",
+        "360-degree Hinge | Backlit Keyboard",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "laptop",
+      "inStock": true
+    },
+    {
+      "id": "12",
+      "name": "Apple MacBook Air M2 (8GB, 256GB SSD, macOS)",
+      "price": 114900,
+      "discount": 8,
+      "imgSrc": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Apple M2 Chip with 8-Core CPU and 10-Core GPU",
+        "8GB Unified Memory | 256GB SSD",
+        "13.6\" Liquid Retina Display",
+        "18 Hours Battery Life",
+        "macOS Monterey",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "laptop",
+      "inStock": true
+    },
+    {
+      "id": "13",
+      "name": "Acer Nitro 5 (Core i7 11th Gen, 16GB, 1TB SSD, RTX 3060)",
+      "price": 99999,
+      "discount": 15,
+      "imgSrc": "https://m.media-amazon.com/images/I/51GGNToj7aL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Intel Core i7 11th Gen Processor",
+        "16GB DDR4 RAM | 1TB SSD",
+        "15.6\" FHD IPS Display | 144Hz Refresh Rate",
+        "NVIDIA GeForce RTX 3060 Graphics",
+        "4-Zone RGB Backlit Keyboard",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "laptop",
+      "inStock": true
+    },
+    {
+      "id": "14",
+      "name": "Lenovo IdeaPad Slim 3 (Core i3 12th Gen, 8GB, 256GB SSD, Windows 11)",
+      "price": 35999,
+      "discount": 20,
+      "imgSrc": "https://m.media-amazon.com/images/I/81+SKGgJ9yL._AC_UY327_FMwebp_QL65_.jpg",
+      "specifications": [
+        "Intel Core i3 12th Gen Processor",
+        "8GB DDR4 RAM | 256GB SSD",
+        "15.6\" FHD Anti-glare Display",
+        "Integrated Intel UHD Graphics",
+        "Lightweight and Portable Design",
+        "1 Year Manufacturer Warranty"
+      ],
+      "category": "laptop",
+      "inStock": false
+    }
+  ],
+  "meetings": [
+    {
+      "id": "1",
+      "title": "Team Standup",
+      "organizer": "John Doe",
+      "participants": [
+        "Alice",
+        "Bob",
+        "Charlie"
+      ],
+      "date": "2025-01-05",
+      "time": "09:00 AM",
+      "duration": "30 mins",
+      "location": "Conference Room A"
+    },
+    {
+      "id": "2",
+      "title": "Project Planning",
+      "organizer": "Jane Smith",
+      "participants": [
+        "Alice",
+        "Bob",
+        "David"
+      ],
+      "date": "2025-01-06",
+      "time": "11:00 AM",
+      "duration": "1 hour",
+      "location": "Zoom"
+    },
+    {
+      "id": "3",
+      "title": "Client Presentation",
+      "organizer": "Chris Johnson",
+      "participants": [
+        "Emily",
+        "Frank",
+        "Grace"
+      ],
+      "date": "2025-01-07",
+      "time": "02:00 PM",
+      "duration": "45 mins",
+      "location": "Board Room"
+    },
+    {
+      "id": "4",
+      "title": "Weekly Review",
+      "organizer": "Sarah Lee",
+      "participants": [
+        "Alice",
+        "John",
+        "Charlie"
+      ],
+      "date": "2025-01-08",
+      "time": "04:00 PM",
+      "duration": "1 hour",
+      "location": "Microsoft Teams"
+    }
+  ],
+  "tickets": [
+    {
+      "ticketId": "TKT001",
+      "subject": "Unable to login to account",
+      "description": "User unable to log in despite using correct credentials. Password reset also failed.",
+      "status": "Open",
+      "priority": "High",
+      "createdDate": "2025-01-20",
+      "updatedDate": "2025-01-25",
+      "dueDate": "2025-01-27",
+      "assignedTo": "John Doe",
+      "escalated": false,
+      "resolution": null,
+      "category": "Login Issues",
+      "tags": [
+        "login",
+        "authentication"
+      ],
+      "customer": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "phone": "+1234567890",
+        "organization": "Tech Solutions"
+      },
+      "id": "33de"
+    },
+    {
+      "ticketId": "TKT002",
+      "subject": "Website not loading",
+      "description": "Website is not loading on multiple browsers. Cleared cache, still no success.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "createdDate": "2025-01-22",
+      "updatedDate": "2025-01-25",
+      "dueDate": "2025-01-26",
+      "assignedTo": "Sarah Connor",
+      "escalated": true,
+      "resolution": null,
+      "category": "Website Issues",
+      "tags": [
+        "website",
+        "critical"
+      ],
+      "customer": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "phone": "+9876543210",
+        "organization": "WebCorp Inc."
+      },
+      "id": "e325"
+    },
+    {
+      "ticketId": "TKT003",
+      "subject": "Payment failure during checkout",
+      "description": "Payment gateway error while trying to pay using a credit card.",
+      "status": "Resolved",
+      "priority": "Medium",
+      "createdDate": "2025-01-21",
+      "updatedDate": "2025-01-23",
+      "dueDate": "2025-01-24",
+      "assignedTo": "Emily Davis",
+      "escalated": false,
+      "resolution": "Payment gateway fixed, and customer successfully completed the purchase.",
+      "category": "Payment Issues",
+      "tags": [
+        "payment",
+        "checkout",
+        "gateway"
+      ],
+      "customer": {
+        "name": "Charlie Green",
+        "email": "charlie.green@example.com",
+        "phone": "+1928374650",
+        "organization": "E-Shop"
+      },
+      "id": "d609"
+    },
+    {
+      "ticketId": "TKT004",
+      "subject": "Request for password reset",
+      "description": "Customer has not received a password reset email despite multiple attempts.",
+      "status": "Pending Customer Response",
+      "priority": "Low",
+      "createdDate": "2025-01-19",
+      "updatedDate": "2025-01-21",
+      "dueDate": "2025-01-25",
+      "assignedTo": "Mike Johnson",
+      "escalated": false,
+      "resolution": null,
+      "category": "Account Support",
+      "tags": [
+        "password",
+        "reset"
+      ],
+      "customer": {
+        "name": "Diana White",
+        "email": "diana.white@example.com",
+        "phone": "+1827364547",
+        "organization": "TechPro"
+      },
+      "id": "92c0"
+    },
+    {
+      "ticketId": "TKT005",
+      "subject": "Feature not working in the mobile app",
+      "description": "Push notifications are not working in the Android app.",
+      "status": "Open",
+      "priority": "Medium",
+      "createdDate": "2025-01-18",
+      "updatedDate": "2025-01-19",
+      "dueDate": "2025-01-28",
+      "assignedTo": "Alex White",
+      "escalated": true,
+      "resolution": null,
+      "category": "Mobile App Issues",
+      "tags": [
+        "mobile app",
+        "notifications"
+      ],
+      "customer": {
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+        "phone": "+1098765432",
+        "organization": "IMF Analytics"
+      },
+      "id": "0970"
+    },
+    {
+      "ticketId": "TKT006",
+      "subject": "Unable to access admin panel",
+      "description": "Admin panel returns a 403 Forbidden error for authorized users.",
+      "status": "In Progress",
+      "priority": "High",
+      "createdDate": "2025-01-23",
+      "updatedDate": "2025-01-25",
+      "dueDate": "2025-01-29",
+      "assignedTo": "Jane Smith",
+      "escalated": true,
+      "resolution": null,
+      "category": "Admin Access Issues",
+      "tags": [
+        "admin",
+        "access"
+      ],
+      "customer": {
+        "name": "Bruce Wayne",
+        "email": "bruce.wayne@example.com",
+        "phone": "+1100223344",
+        "organization": "Wayne Enterprises"
+      },
+      "id": "b0e4"
+    },
+    {
+      "ticketId": "TKT007",
+      "subject": "Bug in reporting dashboard",
+      "description": "Generated reports show incorrect data for the last quarter.",
+      "status": "Open",
+      "priority": "Low",
+      "createdDate": "2025-01-20",
+      "updatedDate": "2025-01-21",
+      "dueDate": "2025-02-01",
+      "assignedTo": "Kevin Taylor",
+      "escalated": false,
+      "resolution": null,
+      "category": "Reporting Issues",
+      "tags": [
+        "dashboard",
+        "reports"
+      ],
+      "customer": {
+        "name": "Clark Kent",
+        "email": "clark.kent@example.com",
+        "phone": "+1202334455",
+        "organization": "Daily Planet"
+      },
+      "id": "95ee"
+    },
+    {
+      "ticketId": "TKT008",
+      "subject": "Integration issue with third-party API",
+      "description": "API response is returning a 500 error for all requests.",
+      "status": "Resolved",
+      "priority": "High",
+      "createdDate": "2025-01-15",
+      "updatedDate": "2025-01-16",
+      "dueDate": "2025-01-17",
+      "assignedTo": "Lucy Brown",
+      "escalated": false,
+      "resolution": "Issue fixed on the third-party API server.",
+      "category": "Integration Issues",
+      "tags": [
+        "API",
+        "integration"
+      ],
+      "customer": {
+        "name": "Lois Lane",
+        "email": "lois.lane@example.com",
+        "phone": "+1456789101",
+        "organization": "Media Corp"
+      },
+      "id": "9904"
+    },
+    {
+      "ticketId": "TKT009",
+      "subject": "Request for data migration",
+      "description": "Customer wants to migrate their data from the old system to the new platform.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "createdDate": "2025-01-10",
+      "updatedDate": "2025-01-20",
+      "dueDate": "2025-02-05",
+      "assignedTo": "Peter Parker",
+      "escalated": false,
+      "resolution": null,
+      "category": "Data Migration",
+      "tags": [
+        "migration",
+        "data"
+      ],
+      "customer": {
+        "name": "Tony Stark",
+        "email": "tony.stark@example.com",
+        "phone": "+1876543210",
+        "organization": "Stark Industries"
+      },
+      "id": "8447"
+    },
+    {
+      "ticketId": "TKT010",
+      "subject": "Account suspended without reason",
+      "description": "User's account was suspended without prior notice or explanation.",
+      "status": "Open",
+      "priority": "High",
+      "createdDate": "2025-01-25",
+      "updatedDate": "2025-01-25",
+      "dueDate": "2025-01-30",
+      "assignedTo": "Natasha Romanoff",
+      "escalated": true,
+      "resolution": null,
+      "category": "Account Issues",
+      "tags": [
+        "suspension",
+        "account"
+      ],
+      "customer": {
+        "name": "Steve Rogers",
+        "email": "steve.rogers@example.com",
+        "phone": "+1543210987",
+        "organization": "SHIELD"
+      },
+      "id": "de55"
+    }
+  ],
+  "employees": [
+    {
+      "id": "a1b2",
+      "firstname": "David",
+      "lastname": "Smith",
+      "email": "david.smith@example.com",
+      "phoneno": "9123456789",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "b2c3",
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "email": "emily.davis@example.com",
+      "phoneno": "9234567890",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "c3d4",
+      "firstname": "Michael",
+      "lastname": "Johnson",
+      "email": "michael.johnson@example.com",
+      "phoneno": "9345678901",
+      "password": "test@123",
+      "role": "admin"
+    },
+    {
+      "firstname": "Sarah",
+      "lastname": "Williams",
+      "phoneno": "9456789012",
+      "password": "test@123",
+      "role": "admin",
+      "id": "d4e5"
+    },
+    {
+      "firstname": "Robert",
+      "lastname": "Brown",
+      "email": "robert.brown@digitaledify.ai",
+      "phoneno": "9567890123",
+      "password": "test@123",
+      "role": "employee",
+      "id": "e5f6"
+    },
+    {
+      "firstname": "Jessica",
+      "lastname": "Miller",
+      "email": "jessica.miller@example.com",
+      "phoneno": "9678904321",
+      "password": "test@123",
+      "role": "employee",
+      "id": "f6g7"
+    },
+    {
+      "id": "g7h8",
+      "firstname": "William",
+      "lastname": "Taylor",
+      "email": "william.taylor@example.com",
+      "phoneno": "9789012345",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "firstname": "Sophia",
+      "lastname": "Anderson",
+      "email": "sophia.anderson@example.com",
+      "phoneno": "9890123456",
+      "password": "test@123",
+      "role": "employee",
+      "id": "h8i9"
+    },
+    {
+      "id": "i9j1",
+      "firstname": "James",
+      "lastname": "Martinez",
+      "email": "james.martinez@example.com",
+      "phoneno": "9901234567",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "j1k2",
+      "firstname": "Olivia",
+      "lastname": "Harris",
+      "email": "olivia.harris@example.com",
+      "phoneno": "9012345678",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "k2l3",
+      "firstname": "Benjamin",
+      "lastname": "Clark",
+      "email": "benjamin.clark@example.com",
+      "phoneno": "8123456789",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "l3m4",
+      "firstname": "Ava",
+      "lastname": "Lewis",
+      "email": "ava.lewis@example.com",
+      "phoneno": "8234567890",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "m4n5",
+      "firstname": "Daniel",
+      "lastname": "Walker",
+      "email": "daniel.walker@example.com",
+      "phoneno": "8345678901",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "n5o6",
+      "firstname": "Mia",
+      "lastname": "Hall",
+      "email": "mia.hall@example.com",
+      "phoneno": "8456789012",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "o6p7",
+      "firstname": "Ethan",
+      "lastname": "Allen",
+      "email": "ethan.allen@example.com",
+      "phoneno": "8567890123",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "p7q8",
+      "firstname": "Charlotte",
+      "lastname": "Young",
+      "email": "charlotte.young@example.com",
+      "phoneno": "8678901234",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "q8r9",
+      "firstname": "Alexander",
+      "lastname": "King",
+      "email": "alexander.king@example.com",
+      "phoneno": "8789012345",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "r9s1",
+      "firstname": "Isabella",
+      "lastname": "Wright",
+      "email": "isabella.wright@example.com",
+      "phoneno": "8890123456",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "s1t2",
+      "firstname": "Matthew",
+      "lastname": "Scott",
+      "email": "matthew.scott@example.com",
+      "phoneno": "8901234567",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "t2u3",
+      "firstname": "Amelia",
+      "lastname": "Green",
+      "email": "amelia.green@example.com",
+      "phoneno": "8012345678",
+      "password": "test@123",
+      "role": "employee"
+    },
+    {
+      "id": "0184",
+      "firstname": "Manideep",
+      "lastname": "J",
+      "email": "manideep.de@digitaledify.ai",
+      "phoneno": "8901234567",
+      "password": "test@123",
+      "role": "admin"
+    }
+  ],
+  "leaves": [
+    {
+      "id": "da2c",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-08",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "David Smith",
+      "type": "Annual",
+      "empId": "a1b2"
+    },
+    {
+      "id": "7a1a",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-07",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "David Smith",
+      "type": "Annual",
+      "empId": "a1b2"
+    },
+    {
+      "id": "8fd8",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-07",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "David Smith",
+      "type": "Annual",
+      "empId": "a1b2"
+    },
+    {
+      "id": "2e90",
+      "startDate": "2025-02-08",
+      "endDate": "2025-02-08",
+      "duration": "1",
+      "resumptionDate": "2025-02-21",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "David Smith",
+      "type": "Sick",
+      "empId": "a1b2"
+    },
+    {
+      "id": "4781",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-21",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "Emily Davis",
+      "type": "Annual",
+      "empId": "b2c3"
+    },
+    {
+      "id": "95ae",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-21",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "Emily Davis",
+      "type": "Annual",
+      "empId": "b2c3"
+    },
+    {
+      "id": "2f0d",
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "duration": "1",
+      "resumptionDate": "2025-02-07",
+      "reason": "Personal",
+      "reliefOfficer": "Manideep",
+      "name": "Emily Davis",
+      "type": "Maternity",
+      "empId": "b2c3"
+    }
+  ],
+  "groceries": [
+    {
+      "name": "Tomato Local",
+      "category": "Fresh Vegetables",
+      "weight": "500 g",
+      "price": 22,
+      "originalPrice": 43,
+      "discount": "48% Off",
+      "id": "1aed"
+    },
+    {
+      "name": "Onion",
+      "category": "Fresh Vegetables",
+      "weight": "1 kg",
+      "price": 71,
+      "originalPrice": 84,
+      "discount": "15% Off",
+      "id": "d6d3"
+    },
+    {
+      "name": "Mango Alphonso",
+      "category": "Mangoes and Melons",
+      "weight": "1 kg",
+      "price": 150,
+      "originalPrice": 200,
+      "discount": "25% Off",
+      "id": "e01b"
+    },
+    {
+      "name": "Watermelon",
+      "category": "Mangoes and Melons",
+      "weight": "3 kg",
+      "price": 80,
+      "originalPrice": 100,
+      "discount": "20% Off",
+      "id": "c114"
+    },
+    {
+      "name": "Rose Bouquet",
+      "category": "Flowers and Leaves",
+      "weight": "10 pcs",
+      "price": 120,
+      "originalPrice": 150,
+      "discount": "20% Off",
+      "id": "886e"
+    },
+    {
+      "name": "Mint Leaves",
+      "category": "Leafy, Herbs and Seasonings",
+      "weight": "100 g",
+      "price": 15,
+      "originalPrice": 25,
+      "discount": "40% Off",
+      "id": "b3ad"
+    },
+    {
+      "name": "Avocado",
+      "category": "Exotics and Premium",
+      "weight": "1 pc",
+      "price": 90,
+      "originalPrice": 120,
+      "discount": "25% Off",
+      "id": "a3b0"
+    },
+    {
+      "name": "Organic Spinach",
+      "category": "Organics and Hydroponics",
+      "weight": "200 g",
+      "price": 40,
+      "originalPrice": 55,
+      "discount": "27% Off",
+      "id": "882d"
+    },
+    {
+      "name": "Mushroom Button",
+      "category": "Cuts and Sprouts",
+      "weight": "200 g",
+      "price": 84,
+      "originalPrice": 112,
+      "discount": "25% Off",
+      "id": "2a70"
+    },
+    {
+      "name": "Tulsi Plant",
+      "category": "Plants and Gardening",
+      "weight": "1 pc",
+      "price": 75,
+      "originalPrice": 100,
+      "discount": "25% Off",
+      "id": "74ca"
+    },
+    {
+      "name": "Dried Figs",
+      "category": "Dried and Dehydrated",
+      "weight": "250 g",
+      "price": 180,
+      "originalPrice": 220,
+      "discount": "18% Off",
+      "id": "e770"
+    },
+    {
+      "id": "7f22"
+    }
+  ],
+  "courses": []
+}
